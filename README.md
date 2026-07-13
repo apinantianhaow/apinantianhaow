@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Aphinan Thianhao but you can call me Tun</h1>
+<h1>Hi there 👋, I'm Aphinan Thianhao</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3578E5&center=false&vCenter=true&width=500&lines=Full+Stack+Developer+(in+training);React+Native+%26+Next.js+Enthusiast;MySQL+Database+Wrestler+🤼" alt="Typing SVG" />
